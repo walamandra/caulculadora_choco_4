@@ -130,7 +130,7 @@ class _MyHomePageState extends State<MyHomePage> {
             controller: controller,
             keyboardType: TextInputType.number,
             decoration: InputDecoration(
-              hintText: 'Ingrese la cantidad',
+              hintText: 'Ingrese la cantidad deseada',
             ),
           ),
           actions: <Widget>[
